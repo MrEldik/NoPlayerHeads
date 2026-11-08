@@ -1,0 +1,5 @@
+name: NoPlayerHeads
+version: 1.0.0
+main: ru.noplayerheads.NoPlayerHeads
+api-version: '1.21.11'
+description: Prevents players from placing player heads on floors and walls.
